@@ -11,8 +11,7 @@ API_ID = os.environ.get("API_ID", "26338031")
 
 API_HASH = os.environ.get("API_HASH", "8f37dcd800e39eff63c0e6e7b5aa67b9")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "  6774757684:AAGZ_ht-oSAmA3WX0QglemEoahlhqi6G0l8
-") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "  6774757684:AAGZ_ht-oSAmA3WX0QglemEoahlhqi6G0l8") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "Hyrongamerz_bot") 
 
